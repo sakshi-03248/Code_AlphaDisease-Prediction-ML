@@ -1,0 +1,1 @@
+The notebook downloads the public UCI Heart Disease dataset at runtime. No fabricated medical data is included in this repository.
