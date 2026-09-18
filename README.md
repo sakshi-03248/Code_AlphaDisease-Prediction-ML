@@ -114,5 +114,3 @@ The saved file contains the complete preprocessing + final model pipeline.
 - Streamlit interface
 - Monitoring for data-distribution changes
 
-## Internship Video Explanation
-“This project is a Disease Prediction from Medical Data system built using Python and machine learning. I used the UCI Heart Disease dataset and converted its original target into a binary classification problem. I performed data inspection, cleaning, exploratory data analysis, preprocessing, and an 80/20 stratified train-test split. I trained Logistic Regression, SVM, Random Forest, and XGBoost models and evaluated them using accuracy, precision, recall, F1-score, ROC-AUC, confusion matrices, and ROC curves. I also used five-fold cross-validation and GridSearchCV for model validation and tuning. Finally, I created a sample prediction function and saved the complete preprocessing and model pipeline with Joblib. This project is intended for educational and research purposes and is not a medical diagnosis system.”
